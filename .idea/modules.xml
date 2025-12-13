@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Threads/Java-Core/Java-Core.iml" filepath="$PROJECT_DIR$/Java-Threads/Java-Core/Java-Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Threads/Java-Threads.iml" filepath="$PROJECT_DIR$/Java-Threads/Java-Threads.iml" />
     </modules>
   </component>

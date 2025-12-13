@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf87002-a721-454d-b181-a83d4ce66197" name="Changes" comment="Learn Thread and Practice About That Threads and Make two projects like (consumer and Producer) and Traffic light cmd application Using Threads" />
+    <list default="true" id="abf87002-a721-454d-b181-a83d4ce66197" name="Changes" comment="Learn Thread and Practice About That Threads and Make two projects like (consumer and Producer) and Traffic light cmd application Using Threads">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Rebasing main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/hp/OneDrive/Documents/GitHub/Java/Java-Threads/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/hp/OneDrive/Documents/GitHub/Java/Java-Threads/Java-Core/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
